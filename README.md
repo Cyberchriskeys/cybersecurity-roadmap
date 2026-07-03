@@ -18,3 +18,5 @@ I want to become a **Cybersecurity Professional**.
 ## Skills I Want to Learn
 
 [GitHub](https://github.com)
+Cybersecurity
+Linux
